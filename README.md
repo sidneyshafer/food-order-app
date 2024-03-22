@@ -1,5 +1,5 @@
 # Food Order App
-A React application for ordering food.
+A front-end React application for adding food itmes to an online cart. Check out the :link:[Live Demo]()
 
 ## User Interface
 
